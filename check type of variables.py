@@ -1,3 +1,4 @@
+//simple cheking the datatype of the variables
 a = 5
 b = 25.5
 c = 'abc'
