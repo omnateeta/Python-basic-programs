@@ -1,2 +1,2 @@
 # Python-basic-programs
---some of the basic python programs will be collected over here ...
+--some of the basic python programs will be collected over here.
