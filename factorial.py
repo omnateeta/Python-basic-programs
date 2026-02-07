@@ -1,6 +1,6 @@
 #generate a random number
 import random
-print(random.randint(0,9))
+print(random.randint(0,9)) 
 
 #check even or odd
 num=int(input("Enter a number :"))
