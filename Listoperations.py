@@ -1,7 +1,7 @@
 #LIST in python
 a=["apple","banana","Mango"]
 print(a)
-
+ 
 #last access items
 a=["apple","banana","Mango"]
 print(a[1])
