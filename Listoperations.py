@@ -1,9 +1,9 @@
-#LIST in python
+#LIST in python adding
 a=["apple","banana","Mango"]
 print(a)
  
 #last access items
-a=["apple","banana","Mango"]
+a=["apple","banana","Mango"] 
 print(a[1])
 print(a[0]) 
 print(a[-1])
