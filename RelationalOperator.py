@@ -16,3 +16,10 @@ Here are some more examples of relational operators:
 - a != b  (Checks if `a` is not equal to `b`)
 - a >= b  (Checks if `a` is greater than or equal to `b`)
 - a <= b  (Checks if `a` is less than or equal to `b`)
+
+
+
+           # solution as follows
+height1 = 15
+height2 = 13
+print(height1 != height2) # returns True because 15 is not equal to 13
