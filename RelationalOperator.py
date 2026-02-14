@@ -1,7 +1,7 @@
 Relational operators help you compare two values or variables. They give you a result of either True or False based on the comparison.
 
 Basic Comparison
-Let's start with a simple example:
+Let's start with a simple example: 
 
 height1 = 12
 height2 = 14
